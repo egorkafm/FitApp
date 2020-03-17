@@ -60,7 +60,7 @@ a,a:visited {
   color: #ffffff;
 }
 .header__menu a:hover {
-  color: #000000;
+  /* color: #000000; */
   cursor: pointer;
 }
 .header__menu button {
@@ -74,9 +74,9 @@ a,a:visited {
   outline: none;
   width: 140px;
 }
-.header__menu button:hover {
+/* .header__menu button:hover {
   color: #000000;
-}
+} */
 .header__content {
   display: flex;
   justify-content: space-between;
